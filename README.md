@@ -6,6 +6,3 @@ Hello my git hub!
 
 
 Creating a new branch is quick AND simple.
-use --no-ff 
-study git stash
-git checkout -b Feature origin/Feature
