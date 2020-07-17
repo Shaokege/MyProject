@@ -6,3 +6,10 @@ Hello my git hub!
 
 
 Creating a new branch is quick AND simple.
+<<<<<<< HEAD
+=======
+use --no-ff 
+study git stash
+git checkout -b Feature origin/Feature
+git rebase
+>>>>>>> 55de0ed... rebase
