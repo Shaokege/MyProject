@@ -6,3 +6,4 @@ Hello my git hub!
 
 
 Creating a new branch is quick AND simple.
+Not use --no-ff 
